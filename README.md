@@ -1,0 +1,1 @@
+# Small QR Component project
